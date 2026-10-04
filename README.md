@@ -1,7 +1,8 @@
 # Alex Chen
 
-AI creator who builds free Claude Code skills and shows them in short videos on Instagram,
-[@nocodealex](https://instagram.com/nocodealex). Step-by-step guides at [chen.media](https://chen.media).
+AI creator who builds free Claude Code skills and shows them in short videos on Instagram
+([@nocodealex](https://instagram.com/nocodealex)) and YouTube ([@alexchenbuildsai](https://www.youtube.com/@alexchenbuildsai)).
+Step-by-step guides at [chen.media](https://chen.media).
 
 ## Free Claude Code skills
 
